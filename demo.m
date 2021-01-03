@@ -1,4 +1,7 @@
 clear;
+addpath('lib')
+addpath('data')
+
 %%
 figure
 load logwell.mat
